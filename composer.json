@@ -17,8 +17,7 @@
     },
     "extra": {
         "laravel": {
-            "providers": [
-                "Armincms\\Naid\\ToolServiceProvider"
+            "providers": [ 
             ]
         }
     },
